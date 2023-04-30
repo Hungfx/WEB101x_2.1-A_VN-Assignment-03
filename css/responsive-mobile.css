@@ -96,6 +96,7 @@
   /* footer */
   #footer ul {
     gap: 12px;
+    padding: 0 !important;
   }
 
   #footer a {
